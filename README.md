@@ -200,5 +200,6 @@ O segundo bug seria o 'Criação de conta sem validação dos requisitos da senh
 <a href="https://drive.google.com/file/d/1BR2aBA0hvuVq_5RqOcDGLqRaLozZ51er/view?usp=sharing">Imagem</a> <br> 
 <br>
 <p>2 - Outra melhoria seria retirar a mensagem 'A senha precisa ter no mínimo 8 caracteres e 1 caractere especial.' da tela de login pois ela deveria pertercer somente a tela de cadastro.</p>
-<a href="https://drive.google.com/drive/folders/1ZhgIdz0Ud1xLPQmx0W9Ajx3aBwwcjvRs?usp=sharing">Imagem</a>
+<a href="https://drive.google.com/drive/folders/1ZhgIdz0Ud1xLPQmx0W9Ajx3aBwwcjvRs?usp=sharing">Imagem</a> <br>
+<br>
 <p>3 - Para usuários que esqueceram a senha, seria interessante disponibilizar uma URL com a opção "Esqueci a senha", redirecionando para a página de recuperação.</p>
